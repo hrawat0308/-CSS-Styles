@@ -1,4 +1,5 @@
-CSS : 
+## CSS : 
+```
 .lds-dual-ring {
   display: inline-block;
   width: 64px;
@@ -38,9 +39,11 @@ CSS :
   }
 }
 
+```
 ******************************************************************************************************************************************************
 
-JS : 
+## JS : 
+```
 import React from 'react';
 
 import './LoadingSpinner.css';
@@ -54,4 +57,4 @@ const LoadingSpinner = props => {
 };
 
 export default LoadingSpinner;
-
+```
